@@ -4,17 +4,17 @@
     <div class="tab border-1px">
       <div class="tab-item">
         <router-link v-bind:to="'/goods'">
-          1
+          商品
         </router-link>
       </div>
       <div class="tab-item">
         <router-link to="/ratings">
-          2
+          评价
         </router-link>
       </div>
       <div class="tab-item">
         <router-link to="/seller">
-          3
+          商家
         </router-link>
       </div>
     </div>
